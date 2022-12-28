@@ -1,0 +1,43 @@
+body{
+  background-color: #E5B8F4;
+}
+.hac{
+  text-align: center;
+  background-color: #C147E9;
+  padding: 12px;
+}
+li{
+  text-decoration: none;
+  display: inline-block;
+  color: black;
+  background-color: #C147E9;
+  padding: 6px;
+  transform: 0.1s;
+}
+li:hover{
+  color: #ddd;
+  background-color: black;
+  padding: 11px;
+}
+.two01{
+  color: white;
+  background-color: #371B58;
+  padding: 13px;
+  display: inline-block;
+}
+.two02{
+  margin: auto;
+  font-size: 40px;
+  font-family: "Lucida Consolas",Monospace;
+}
+.two03{
+  font-family: Sans-Serif;
+  font-size: 25px;
+  text-align: justify;
+}
+.two04{
+  background-image: url(icon.png);
+  width: 50px;
+  height: 50px;
+  
+}
